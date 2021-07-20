@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/add.png</file>
+        <file>image/ba.png</file>
+        <file>image/ba_click.png</file>
+        <file>image/check_check.png</file>
+        <file>image/check_un.png</file>
+        <file>image/close.png</file>
+        <file>image/close_hover.png</file>
+        <file>image/close_pressed.png</file>
+        <file>image/dow.png</file>
+        <file>image/dow_click.png</file>
+        <file>image/go-1.png</file>
+        <file>image/google.png</file>
+        <file>image/input.png</file>
+        <file>image/input_click.png</file>
+        <file>image/logo-ionic.png</file>
+        <file>image/qy.png</file>
+        <file>image/qy_click.png</file>
+        <file>image/search.png</file>
+        <file>image/search_click.png</file>
+        <file>image/select.png</file>
+        <file>image/select_active.png</file>
+        <file>image/user.png</file>
+        <file>image/user_click.png</file>
+    </qresource>
+</RCC>
